@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a master student in Ecology and Evolution at the University of Amsterdam.
+My main interests are birds 🐦 and modeling different aspects of an animals life cycle.
+
+My programming is mainly done in R, but, currently also learning some Python.
+
 <!--
 **r-vd-woude/r-vd-woude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
